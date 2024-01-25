@@ -1,0 +1,36 @@
+{
+  // cSpell info:
+  // https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+  "cSpell.ignorePaths": [
+    // repo files
+    ".git"
+  ],
+  "cSpell.words": [
+    // repo-related words
+    "Dimitri",
+    "dimitrilw",
+    "Fermyon",
+
+    // common code/tech terms & short-hand
+    "bools",
+    "nums",
+    "justfile",
+
+    // go stuff
+
+    // python stuff
+
+    // javascript & typescript stuff
+
+    // rust stuff
+    // terms
+    "clippy",
+    "rustc",
+    "rustup",
+    // crates
+    "serde",
+
+    // misc other
+    "opensource"
+  ]
+}
