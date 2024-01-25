@@ -1,0 +1,7 @@
+spin_manifest_version = 2
+
+[application]
+name = "spin-discord"
+version = "0.1.0"
+authors = ["Dimitri <5898931+dimitrilw@users.noreply.github.com>"]
+description = "Multiple demo Discord bots, written in various languages."
